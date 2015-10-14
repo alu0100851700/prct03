@@ -1,1 +1,4 @@
 Respuestas a las preguntas de la práctica 3
+
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+	El fin de trabajar con diversas ramas es el de poder añadir cambios de forma independiente al progreso global del proyecto, de manera que si colaboramos con otras personas podamos trabajar de forma separada sin que existan conflictos.
