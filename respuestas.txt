@@ -3,5 +3,8 @@ Respuestas a las preguntas de la práctica 3
 1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
 	El fin de trabajar con diversas ramas es el de poder añadir cambios de forma independiente al progreso global del proyecto, de manera que si colaboramos con otras personas podamos trabajar de forma separada sin que existan conflictos.
 
+2.- ¿Qué es una reorganización (rebase)?
+	La reorganización consiste en añadir los cambios que hicimos en la rama que indicamos a la rama en la que estamos actualmente y posteriormente eliminar la otra rama.
+
  3.- ¿Cuál es la ventaja de reorganizar (rebase)?
  	La ventaja es que todo el trabajo se ve mas claramente debido a que es como si se hubiera hecho en serie, en vez de paralelamente.
